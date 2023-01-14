@@ -1,0 +1,7 @@
+name: 5MinuetsPlugin
+version: '${project.version}'
+main: dev.voigon.watchwolfsampleplugin.WatchwolfSamplePlugin
+api-version: 1.19
+authors: [ Voigon ]
+commands:
+  test-cmd:

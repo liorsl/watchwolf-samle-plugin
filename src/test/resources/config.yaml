@@ -1,0 +1,9 @@
+server-type:
+  - Spigot:
+      - "1.19"
+
+users:
+  - "MinecraftGamer_Z"
+  - "rogermiranda1000"
+
+plugin: "./target/watchwolf-sample-plugin-1.0-SNAPSHOT.jar"
