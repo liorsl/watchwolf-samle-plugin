@@ -66,6 +66,10 @@
             <id>sonatype</id>
             <url>https://oss.sonatype.org/content/groups/public/</url>
         </repository>
+        <repository>
+            <id>voigon-snapshots</id>
+            <url>https://mvn.apartiumservices.com/repository/voigon-snapshots</url>
+        </repository>
     </repositories>
 
     <dependencies>
@@ -84,7 +88,7 @@
         <dependency>
             <groupId>dev.watchwolf</groupId>
             <artifactId>watchwolf-tester</artifactId>
-            <version>0.1.5-voigon</version>
+            <version>0.1.5-SNAPSHOT</version>
             <scope>test</scope>
         </dependency>
     </dependencies>
