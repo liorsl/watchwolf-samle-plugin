@@ -1,5 +1,5 @@
 server-type:
-  - Spigot:
+  - SPIGOT:
       - "1.19"
 
 users:
